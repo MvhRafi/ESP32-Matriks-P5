@@ -89,8 +89,8 @@ GFXcanvas16 *QuoteLayout2 = nullptr;
 // GFXcanvas16 *fullPanel = nullptr;
 GFXcanvas16 *runningText8pt = nullptr;
 
-char ssid[] = "Hidysm";
-char pass[] = "12334567890";
+char ssid[] = "-";
+char pass[] = "-";
 
 #define TZ 7
 #define TZ_S (TZ * 3600)
